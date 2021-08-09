@@ -5,15 +5,19 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version is '2.7.1'
+
+* Rails version is 6.0.4
 
 * System dependencies
 
 * Configuration
 
 * Database creation
+rails db:create
 
 * Database initialization
+rails db:migrate
 
 * How to run the test suite
 
